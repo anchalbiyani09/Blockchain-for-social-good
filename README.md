@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![DonationTrack](https://i.imgur.com/lqDGpGg.png)
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![React](https://img.shields.io/badge/React-18.x-blue.svg)](https://reactjs.org/)
@@ -19,9 +18,7 @@
 
 **DonationTrack** is a cutting-edge decentralized crowdfunding platform that connects NGOs with donors worldwide. By leveraging blockchain technology, we ensure complete transparency, security, and accountability in the donation process. NGOs can create campaigns, receive funds, and provide proof of how donations are utilized, while donors can track their contributions in real-time and view exactly how their money is being used.
 
-<p align="center">
-<img src="https://i.imgur.com/RJFAPx3.png" alt="Platform Screenshot" width="80%">
-</p>
+
 
 ## ✨ Features
 
@@ -37,8 +34,6 @@
 ## 🎬 Demo
 
 Watch our platform in action:
-
-[![DonationTrack Demo](https://i.imgur.com/oJOqLZB.png)](https://drive.google.com/drive/folders/1-yREJRhhbdm9L8jhMsIk7XEoMdNJHb86?usp=sharing)
 
 [➡️ View full demo video](https://drive.google.com/drive/folders/1-yREJRhhbdm9L8jhMsIk7XEoMdNJHb86?usp=sharing)
 
